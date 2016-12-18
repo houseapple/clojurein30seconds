@@ -1,0 +1,7 @@
+Code snippets adapted from  Norbert Wójtowicz's presentation, ClojureScript + React.js: https://www.youtube.com/watch?v=6_mbxaRDA-s
+
+Background image: https://unsplash.com/photos/inh3oOPOOjQ
+
+Unsplash license: 
+https://unsplash.com/faq
+http://creativecommons.org/publicdomain/zero/1.0/
