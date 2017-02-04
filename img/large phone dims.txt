@@ -1,0 +1,6 @@
+356:181
+
+420:214 (up to iPhone 6 Plus on Chrome devtools)
+
+double -> use this both as initial aspect ratio, and as final image dimensions:
+840x428
